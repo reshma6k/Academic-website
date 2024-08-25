@@ -1,0 +1,14 @@
+.container{
+   
+    padding: .625rem;
+
+}
+p,h2{
+    display: flex;
+    text-align:start;
+    padding: .1875rem;
+}
+
+.navbar {
+    margin-bottom: 1rem;
+}
